@@ -45,16 +45,3 @@
   <tr><td>Ч:</td><td>Друн — <a href="https://github.com/wirosmango">шыроза</a></td></tr>
   <tr><td>Хуеград</td><td>Лучший сервер на свете — <a href="https://wirosmango.github.io/huegrad.github.io/">тык</a></td></tr>
 </table>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=PurityMind" alt="PurityMind's GitHub stats" />
-  </a>
-</p>
-
-<br>
-
-```bash
-larp@fedora:~# sudo dnf update
