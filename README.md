@@ -18,8 +18,8 @@
 ##  Operating Systems\WMs
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" alt="Debian" />
-  <img src="https://cdn.simpleicons.org/dwm/1D99F3" height="40" alt="dwm" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux" />
+  <img src="https://cdn.simpleicons.org/bspwm/FFFFFF" height="40" alt="dwm" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
 </p>
 
