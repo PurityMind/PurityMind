@@ -12,7 +12,7 @@
 ##  Markup
 
 <p>
-  <img src="/latex-white-outline.svg" height="45" alt="LaTeX" />
+  <img src="/latex-white-outline.svg" height="75" alt="LaTeX" />
 </p>
 
 ##  Operating Systems\WMs
