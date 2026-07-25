@@ -12,7 +12,7 @@
 ##  Markup
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="45" alt="LaTeX" />
+  <img src="/latex-white-outline.svg" height="45" alt="LaTeX" />
 </p>
 
 ##  Operating Systems\WMs
