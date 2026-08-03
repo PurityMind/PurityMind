@@ -1,49 +1,39 @@
-<h1 align="center">PurityMind</h1>
+<h1 align="center">Puritymind (or frmn idk)</h1>
 
-<p align="center"><i>довбойоб — серийный дистрохоппер</i></p>
+<h2 align="center">Programming Languages that I like</h2>
 
-##  Programming
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="40" alt="PowerShell" />
-</p>
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nasm/default.svg" alt="NASM" height="50"/>
+    <img width="15"/>
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" alt="CPP" height="50"/>
+    <img width="15"/>
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c/default.svg" alt="C" height="50"/>
+</div>
 
-##  Markup
+<h2 align="center">Operating System that i use</h2>
 
-<p>
-  <img src="/latex-white-outline.svg" height="75" alt="LaTeX" />
-</p>
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/artix-linux/default.svg" alt="Artix Linux" height="50"/> (+dinit)
+</div>
 
-##  Operating Systems\WMs
+<h2 align="center">Markup</h2>
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" height="40" alt="Arch Linux" />
-  <img src="https://cdn.simpleicons.org/bspwm/FFFFFF" height="40" alt="dwm" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
-</p>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/PurityMind/PurityMind/refs/heads/main/latex-white-outline.svg" alt="LaTeX" height="128"/>
+</div>
 
-##  Tools
+<h2 align="center">Hardware</h2>
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" alt="Visual Studio COde" />
-</p>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Vaio.svg" height="40" alt="VAIO" />
+  <img width="15"/>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Packard_Bell_logo_2009.svg" height="35" alt="Packard Bell" />
+</div>
 
-##  Hardware
 
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Vaio.svg" height="25" alt="VAIO" />
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Packard_Bell_logo_2009.svg" height="30" alt="Packard Bell" />
-</p>
+___
 
----
-
-## About
-
-| | |
-|---|---|
-| Current state | Learning modern C++ |
-| Interests | Systems Programming, Linux, Hardware |
-| Friend | Друн — [wirosmango](https://github.com/wirosmango) |
-| Хуеград | Лучший сервер на свете — [тык](https://wirosmango.github.io/huegrad.github.io/) |
+<div align="center">
+    <img src="https://i.pinimg.com/736x/17/9a/c4/179ac4d668a6006035d8082fa248ddf9.jpg" alt="Volga region" height="250"/>
+</div>
