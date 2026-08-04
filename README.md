@@ -14,7 +14,7 @@
 <h2 align="center">Operating System that i use</h2>
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/artix-linux/default.svg" alt="Artix Linux" height="50"/> (+dinit)
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/debian/default.svg" alt="Debian GNU/Linux" height="50"/>
 </div>
 
 <h2 align="center">Markup</h2>
