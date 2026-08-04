@@ -11,7 +11,7 @@
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c/default.svg" alt="C" height="50"/>
 </div>
 
-<h2 align="center">Operating System that i use</h2>
+<h2 align="center">Operating System I use</h2>
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/debian/default.svg" alt="Debian GNU/Linux" height="50"/>
