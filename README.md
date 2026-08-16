@@ -9,12 +9,18 @@
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" alt="CPP" height="50"/>
     <img width="15"/>
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c/default.svg" alt="C" height="50"/>
+    <img width="15"/>
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-sharp/default.svg" alt="C#" height="50">
 </div>
 
-<h2 align="center">Operating System I use</h2>
+<h2 align="center">Operating System (+WM) that I use</h2>
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/debian/default.svg" alt="Debian GNU/Linux" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nixos/default.svg" alt="NixOS" height="50"/>
+    <img width="15"/>
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/sway/default.svg" alt="SwayWM" height="50" />
+    <img width="15"/>
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/windows/default.svg" alt="Windows" height="50" />
 </div>
 
 <h2 align="center">Markup</h2>
