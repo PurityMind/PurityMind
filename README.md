@@ -19,8 +19,6 @@
 <div align="center">
     <img src="https://avatars.githubusercontent.com/u/41294369?v=4" alt="FASM" height="50"/>
     &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nasm/default.svg" alt="NASM" height="50"/>
-    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" alt="C++" height="50"/>
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-sharp/default.svg" alt="C#" height="50"/>
