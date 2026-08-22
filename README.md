@@ -50,7 +50,3 @@ Console.WriteLine("ЖОПА");
 
 ![PurityMind's GitHub stats](https://github-stats-extended.vercel.app/api?username=PurityMind&show_icons=true&theme=algolia)
 ---
-
-```bash
-purity@nixos:~# nix-channel --update && nixos-rebuild switch --upgrade
-```
