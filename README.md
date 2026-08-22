@@ -1,69 +1,56 @@
-<h1 align="center">PurityMind</h1>
+# PurityMind
 
-<h2 align="center">Languages I Like</h2>
+## Стек
 
-<div align="center">
-    <img src="https://avatars.githubusercontent.com/u/41294369?v=4" alt="FASM" height="50"/>
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nasm/default.svg" alt="NASM" height="50"/>
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" alt="C++" height="50"/>
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c/default.svg" alt="C" height="50"/>
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-sharp/default.svg" alt="C#" height="50"/>
-</div>
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-sharp/default.svg" height="40" alt="csharp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://isocpp.org/">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" height="40" alt="cpp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/powershell/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="40" alt="powershell" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.nasm.us/">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nasm/default.svg" height="40" alt="nasm" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-history">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="40" alt="vs2022" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://nixos.org">
+    <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/refs/heads/master/logo/nix-snowflake-colours.svg" height="40" alt="nixos" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://swaywm.org/">
+    <img src="https://cdn.simpleicons.org/sway/4588f5" height="40" alt="sway" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://microsoft.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="windows" />
+  </a>
+</p>
 
-<h2 align="center">Currently Learning</h2>
+## Обо мне
 
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" alt="C++" height="50"/>
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-sharp/default.svg" alt="C#" height="50"/>
-</div>
+* Хобби-программист, интересует низкоуровневая разработка
+* Сейчас в фокусе: C#, C++, PowerShell — ассемблер немного приелся, но никуда не делся
+* Друн величайшего [шыроза](https://github.com/wirosmango)
 
-<h2 align="center">Systems & WMs</h2>
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nixos/default.svg" alt="NixOS" height="50"/>
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/sway/default.svg" alt="Sway" height="50"/>
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/windows/default.svg" alt="Windows" height="50"/>
-</div>
-
-<h2 align="center">Typesetting</h2>
-
-<div align="center">
-    <img
-        src="https://raw.githubusercontent.com/PurityMind/PurityMind/refs/heads/main/latex-white-outline.svg"
-        alt="LaTeX"
-        height="80"
-    />
-</div>
-
-<h2 align="center">Hardware</h2>
-
-<div align="center">
-    <img
-        src="https://upload.wikimedia.org/wikipedia/commons/3/35/Vaio.svg"
-        alt="VAIO"
-        height="40"
-    />
-    &nbsp;
-    <img
-        src="https://commons.wikimedia.org/wiki/Special:FilePath/Packard_Bell_logo_2009.svg"
-        alt="Packard Bell"
-        height="35"
-    />
-</div>
+```cs
+Console.WriteLine("ЖОПА");
+```
 
 ---
 
-<div align="center">
-    <img
-        src="https://i.pinimg.com/736x/17/9a/c4/179ac4d668a6006035d8082fa248ddf9.jpg"
-        alt="Volga Region"
-        height="250"
-    />
-</div>
+![PurityMind's GitHub stats](https://github-stats-extended.vercel.app/api?username=PurityMind&show_icons=true&theme=algolia)
+---
+
+```bash
+purity@nixos:~# nix-channel --update && nixos-rebuild switch --upgrade
+```
