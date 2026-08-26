@@ -23,8 +23,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="40" alt="vs2022" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nixos.org">
-    <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/refs/heads/master/logo/nix-snowflake-colours.svg" height="40" alt="nixos" />
+  <a href="https://kernel.org">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" height="40" alt="nixos" />
   </a>
   &nbsp;&nbsp;
   <a href="https://swaywm.org/">
@@ -39,22 +39,17 @@
 ## Обо мне
 
 * Недо-программист, интересует низкоуровневая разработка
-* Сейчас в фокусе: C#, C++, PowerShell — ассемблер немного приелся, но никуда не делся
+* Сейчас в фокусе: C#, C++ — ассемблер немного приелся, но никуда не делся
 * Друн величайшего [шыроза](https://github.com/wirosmango)
 * [Самый лучший сервер на свете](https://wirosmango.github.io/huegrad-site/)
 
-```cs
-using System;
+```cpp
+#include <iostream>
 
-namespace App1
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
+using std::cout;
+
+int main() {
+        cout << "Hello World!\n";
 }
 ```
 
