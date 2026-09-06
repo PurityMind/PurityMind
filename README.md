@@ -1,4 +1,4 @@
-# PurityMind
+# PurityMind (or Σύνεσις)
 
 ## Стек
 
