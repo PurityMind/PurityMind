@@ -7,14 +7,14 @@
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" height="40" alt="cpp" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/powershell/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="40" alt="powershell" />
+  <a href="">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/java/default.svg" height="40" alt="Java" />
   </a>
-  &nbsp;&nbsp;
+  <!-- &nbsp;&nbsp;
   <a href="https://www.latex-project.org/">
     <img src="/latex-white-outline.svg" height="50" alt="LaTeX" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  </a> -->
+  &nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-history">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="40" alt="vs2022" />
   </a>
