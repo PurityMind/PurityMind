@@ -7,7 +7,7 @@
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" height="40" alt="cpp" />
   </a>
   &nbsp;&nbsp;
-  <a href="">
+  <a href="java.com">
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/java/default.svg" height="40" alt="Java" />
   </a>
   <!-- &nbsp;&nbsp;
