@@ -35,17 +35,15 @@
 ## Обо мне
 
 * Недо-программист, интересует низкоуровневая разработка
-* Сейчас в фокусе: C++ 
+* Сейчас в фокусе: C++ && Java
 * Друн величайшего [шыроза](https://github.com/wirosmango)
 * [Самый лучший сервер на свете](https://wirosmango.github.io/huegrad-site/)
 
-```cpp
-#include <iostream>
-
-using std::cout;
-
-int main() {
-        cout << "Hello World!\n";
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World");
+    }
 }
 ```
 
