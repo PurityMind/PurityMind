@@ -1,0 +1,166 @@
+{
+ "key": "29bff3a7",
+ "stars": 5,
+ "contributions": 177,
+ "repos": 3,
+ "followers": 5,
+ "languages": [
+  [
+   "CSS",
+   1093
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 30,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 9
+ },
+ "pins": [
+  {
+   "name": "SwayDots",
+   "url": "https://github.com/PurityMind/SwayDots",
+   "text": "This is my dotfiles for Sway(FX)",
+   "fork": false,
+   "stars": 2,
+   "language": "CSS",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "SwayDots",
+   "url": "https://github.com/PurityMind/SwayDots",
+   "text": "This is my dotfiles for Sway(FX)",
+   "fork": false,
+   "stars": 2,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "i3wm-dotfiles",
+   "url": "https://github.com/PurityMind/i3wm-dotfiles",
+   "text": "this is my dotfiles for i3wm idk",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "PurityMind",
+   "url": "https://github.com/PurityMind/PurityMind",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
