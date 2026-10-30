@@ -1,45 +1,23 @@
-# PurityMind (or Σύνεσις)
+<div align="center">
 
-## Стек
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m PurityMind"></picture>
 
-<p align="left">
-  <a href="https://isocpp.org/">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" height="40" alt="cpp" />
-  </a>
-  <!-- &nbsp;&nbsp;
-  <a href="java.com">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/java/default.svg" height="40" alt="Java" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.latex-project.org/">
-    <img src="/latex-white-outline.svg" height="50" alt="LaTeX" />
-  </a> -->
-  &nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-history">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="40" alt="vs2022" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://nixos.org">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nixos/default.svg" height="40" alt="nixos" />
-  </a>
-  <!-- &nbsp;&nbsp;
-  <a href="https://niri-wm.github.io/niri/">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/niri/default.svg" height="40" alt="sway" />
-  </a> -->
-  &nbsp;&nbsp;
-  <a href="https://microsoft.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="windows" />
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-## Обо мне
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-* Недо-программист, интересует низкоуровневая разработка
-* Сейчас в фокусе: C++
-* Друн величайшего [шыроза](https://github.com/wirosmango)
-* [Самый лучший сервер на свете](https://wirosmango.github.io/huegrad-site/)
+<a href="https://github.com/PurityMind/i3wm-dotfiles"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-i3wm-dotfiles-dark.svg"><img src="assets/project-i3wm-dotfiles-light.svg" width="49%" alt="i3wm-dotfiles"></picture></a>&nbsp;<a href="https://github.com/PurityMind/SwayDots"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-swaydots-dark.svg"><img src="assets/project-swaydots-light.svg" width="49%" alt="SwayDots"></picture></a>
 
----
+<a href="https://github.com/PurityMind/PurityMind"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-puritymind-dark.svg"><img src="assets/project-puritymind-light.svg" width="49%" alt="PurityMind"></picture></a>
 
-![PurityMind's GitHub stats](https://github-stats-extended.vercel.app/api?username=PurityMind&show_icons=true&theme=algolia)
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/PurityMind?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=PurityMind"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
