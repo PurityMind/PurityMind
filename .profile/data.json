@@ -1,6 +1,6 @@
 {
- "key": "47a60be8",
- "stars": 5,
+ "key": "ba2325ca",
+ "stars": 6,
  "contributions": 188,
  "repos": 4,
  "followers": 5,
@@ -140,6 +140,19 @@
    "stars": 2,
    "language": "CSS",
    "topics": []
+  },
+  {
+   "name": "NTfetch-cpp",
+   "url": "https://github.com/PurityMind/NTfetch-cpp",
+   "text": "A minimal C++ *fetch program for Windows NT that somehow compiles and works.",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": [
+    "cpp",
+    "fastfetch-clone",
+    "windows"
+   ]
   }
  ],
  "all": [
@@ -162,6 +175,19 @@
    "topics": []
   },
   {
+   "name": "NTfetch-cpp",
+   "url": "https://github.com/PurityMind/NTfetch-cpp",
+   "text": "A minimal C++ *fetch program for Windows NT that somehow compiles and works.",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": [
+    "cpp",
+    "fastfetch-clone",
+    "windows"
+   ]
+  },
+  {
    "name": "PurityMind",
    "url": "https://github.com/PurityMind/PurityMind",
    "text": "",
@@ -169,19 +195,6 @@
    "stars": 1,
    "language": null,
    "topics": []
-  },
-  {
-   "name": "NTfetch-cpp",
-   "url": "https://github.com/PurityMind/NTfetch-cpp",
-   "text": "A minimal C++ *fetch program for Windows NT that somehow compiles and works.",
-   "fork": false,
-   "stars": 0,
-   "language": "C++",
-   "topics": [
-    "cpp",
-    "fastfetch-clone",
-    "windows"
-   ]
   }
  ]
 }

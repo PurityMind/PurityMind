@@ -6,7 +6,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/PurityMind/SwayDots"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-swaydots-dark.svg"><img src="assets/project-swaydots-light.svg" width="49%" alt="SwayDots"></picture></a>
+<a href="https://github.com/PurityMind/SwayDots"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-swaydots-dark.svg"><img src="assets/project-swaydots-light.svg" width="49%" alt="SwayDots"></picture></a>&nbsp;<a href="https://github.com/PurityMind/NTfetch-cpp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ntfetch-cpp-dark.svg"><img src="assets/project-ntfetch-cpp-light.svg" width="49%" alt="NTfetch-cpp"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
