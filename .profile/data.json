@@ -1,10 +1,14 @@
 {
- "key": "f37b7bf1",
+ "key": "47a60be8",
  "stars": 5,
- "contributions": 179,
- "repos": 3,
+ "contributions": 188,
+ "repos": 4,
  "followers": 5,
  "languages": [
+  [
+   "C++",
+   5666
+  ],
   [
    "CSS",
    1093
@@ -117,14 +121,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 9,
     "day": 31,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 9
  },
  "pins": [
@@ -165,6 +169,19 @@
    "stars": 1,
    "language": null,
    "topics": []
+  },
+  {
+   "name": "NTfetch-cpp",
+   "url": "https://github.com/PurityMind/NTfetch-cpp",
+   "text": "A minimal C++ *fetch program for Windows NT that somehow compiles and works.",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": [
+    "cpp",
+    "fastfetch-clone",
+    "windows"
+   ]
   }
  ]
 }
